@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/d3p1/d3p1/compare/v1.1.0...v1.2.0) (2026-02-11)
+
+
+### Features
+
+* improve README.md content [[#1](https://github.com/d3p1/d3p1/issues/1)] ([4b9355d](https://github.com/d3p1/d3p1/commit/4b9355d776202e1250b742b7da3f124ea7689ef6))
+
 # [1.1.0](https://github.com/d3p1/d3p1/compare/v1.0.0...v1.1.0) (2026-02-11)
 
 
