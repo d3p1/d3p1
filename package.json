@@ -1,0 +1,29 @@
+{
+  "name": "@d3p1/d3p1",
+  "version": "0.0.0",
+  "description": "d3p1",
+  "private": true,
+  "scripts": {
+    "format:code": "prettier --ignore-path .gitignore --check README.md",
+    "format:code:fix": "npm run format:code -- --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3p1/d3p1.git"
+  },
+  "keywords": [
+    "profile-readme"
+  ],
+  "author": "C. M. de Picciotto <d3p1@d3p1.dev> (https://d3p1.dev/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d3p1/d3p1/issues"
+  },
+  "homepage": "https://github.com/d3p1/d3p1#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^19.8.1",
+    "@d3p1/commitlint-config": "^1.0.1",
+    "husky": "8.0.3",
+    "prettier": "3.0.3"
+  }
+}
